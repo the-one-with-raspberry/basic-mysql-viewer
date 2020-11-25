@@ -1,0 +1,5 @@
+CREATE DATABASE {name_placeholder}
+USE {database_name}
+CREATE TABLE {name_placeholder}
+INSERT INTO {table_name} hello
+SELECT * FROM {table_name}
